@@ -28,43 +28,47 @@ h1 { font-weight: normal; }
     position: relative;
     bottom: 35px;
 }
-/*.email {
-    position: relative;
-    font-size: 13px;
-    left: 10px;
-}
 
-label {
+.form {
+    font-size: 12px;
     position: relative;
-    bottom: 20px;
-}
-
-.password-forgot {
-    font-size: 13px;
-    position: relative;
-    left: 52px;
-    word-spacing: 295px;
+    bottom: 45px;
 }
 
 input {
-    display: inline-block;
     width: 457px;
-    position: relative;
-    left: 10px;
-    height: 20px;
-    border: solid lightgray;
+    height: 18px;
+    border: solid rgb(173, 177, 185);
     border-width: 1px;
-    font-size: 13px;
-    padding: 4px;
-    margin-bottom: 30px;
-    bottom: 10px;
+    padding: 3px;
+    margin-top: 8px;
+    margin-bottom: 25px;
 }
 
+::placeholder {
+    color: rgb(173, 177, 185);
+    opacity: 10;
+}
+
+.password {
+    padding-left: 35px;
+}
+
+p {
+    float:right;
+    color: rgb(101, 171, 255);
+    font-size: 13px;
+    margin: 1px;
+}
 .continue {
     background-color: rgb(246, 198, 70);
-    border: solid;
-    border-color: lightgrey;
-    border-width: 1px;
+    width: 465px;
+    border: 1px solid rgb(173, 177, 185);
+    height: 25px;
+}
+
+/*
+.continue {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
     width: 465px;
@@ -74,6 +78,7 @@ input {
     bottom: 20px;
 }
 
+/*
 i {
     color: rgb(136, 156, 255);
     font-size: 11px;
@@ -127,7 +132,7 @@ i {
 .button {
     text-align: center;
     display: inline-block;
-}*/
+}
 
 .footer {
     border-top: 2px solid rgb(173, 177, 185);
@@ -142,7 +147,6 @@ serif;
     font-size: 10px;
 }
 
-/*
 ul {
     list-style-type: none;
     display: flex;

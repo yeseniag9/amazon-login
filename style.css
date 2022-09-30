@@ -67,18 +67,23 @@ p {
     height: 25px;
 }
 
-/*
-.continue {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: relative;
-    width: 465px;
-    height: 25px;
-    font-size: 13px;
-    left: 10px;
-    bottom: 20px;
+.need-help-play-icon {
+    margin-top: -15px;
+}
+
+.play-icon {
+    float: left;
+    font-size: 4px;
+    margin: 4px;
+    padding-left: 8px;
+}
+
+.need-help {
+    float: left;
 }
 
 /*
+
 i {
     color: rgb(136, 156, 255);
     font-size: 11px;

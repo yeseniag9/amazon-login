@@ -21,6 +21,7 @@ body {
     width: 19%;
     height: 100px;
     margin-top: 10px;
+    padding-bottom: 243px;
 }
 
 h1 { font-weight: normal; }
@@ -92,6 +93,7 @@ p {
     position: relative;
     bottom: 60px;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 120px;
 }
 
 .new-to-amazon {

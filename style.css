@@ -88,7 +88,7 @@ p {
 
 .bottom-of-page {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
     position: relative;
     bottom: 60px;

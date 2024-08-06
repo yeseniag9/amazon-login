@@ -105,13 +105,13 @@ p {
 }
   
 .new-to-amazon:before, .new-to-amazon:after {
-    background-color: gray;
+    background-color: rgb(221, 221, 221);
     content: "";
     display: inline-block;
     height: 1px;
     position: relative;
     vertical-align: middle;
-    width: 50%;
+    width: 23%;
 }
   
 .new-to-amazon:before {

@@ -97,6 +97,7 @@ p {
 }
 
 .new-to-amazon {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     float: none;
     color: gray;
     font-size: 12px;

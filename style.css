@@ -115,6 +115,16 @@ p {
     width: 26%;
 }
 
+.new-to-amazon:before {
+    right: 0.5em;
+    margin-left: -50%;
+}
+  
+.new-to-amazon:after {
+    left: 0.5em;
+    margin-right: -50%;
+}
+
 .create-your-amazon-account {
     font-family:monospace;
     background-color: rgb(231, 233, 237);

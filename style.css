@@ -126,12 +126,14 @@ p {
 }
 
 .create-your-amazon-account {
+    font-family:monospace;
     background-color: rgb(231, 233, 237);
     border: 1px solid rgb(173, 177, 185);
     width: 480px;
     margin-top: 15px;
     height: 27px;
     font-size: 13px;
+    letter-spacing: -0.5px;
 }
 
 .final {

@@ -89,7 +89,7 @@ p {
     position: relative;
     bottom: 60px;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 81px;
+    padding: 83px;
 }
 
 .new-to-amazon {
@@ -108,8 +108,10 @@ p {
     height: 1px;
     position: relative;
     vertical-align: middle;
-    width: 125px;
-    margin: 4px;
+    width: 119px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
 }
 
 .create-your-amazon-account {

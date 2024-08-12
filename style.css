@@ -4,6 +4,8 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 33px;
     font-weight: 600;
+    margin-top: -7px;
+    letter-spacing: 0.4px;
 }
 
 .amazon-top a {

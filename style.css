@@ -1,8 +1,9 @@
 .amazon-top {
     display: flex;
     justify-content: center;
-    margin-top: -13px;
 }
+
+
 
 .middle-of-page {
     display: flex;

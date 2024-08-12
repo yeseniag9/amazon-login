@@ -2,10 +2,10 @@
     display: flex;
     justify-content: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 33px;
-    font-weight: 600;
+    font-size: 33.7px;
+    font-weight: 700;
     margin-top: -7px;
-    letter-spacing: 0.4px;
+    letter-spacing: 1px;
 }
 
 .amazon-top a {

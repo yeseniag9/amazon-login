@@ -3,6 +3,10 @@
     justify-content: center;
 }
 
+.amazon-top a {
+    text-decoration: none;
+}
+
 
 
 .middle-of-page {

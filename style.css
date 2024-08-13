@@ -24,11 +24,12 @@
 }
 
 .border-box div {
-    margin: 10px;
+    margin-left: 30px;
 }
 
 .border-box p {
-    font-size: 30px;
+    font-size: 27px;
+    font-weight: 500;
 }
 
 

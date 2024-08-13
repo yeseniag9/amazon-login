@@ -1,12 +1,11 @@
 .amazon-top {
     display: flex;
     justify-content: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 33.7px;
-    font-weight: 700;
     margin-top: -7px;
     margin-bottom: 23px;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33.7px;
+    font-weight: 700;
 }
 
 .amazon-top a {

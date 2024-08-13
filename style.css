@@ -23,13 +23,11 @@
     width: 21%;
 }
 
+.border-box p {
 
-
-
-.sign-in {
-    position: relative;
-    bottom: 35px;
 }
+
+
 
 .form {
     font-size: 12px;
@@ -54,13 +52,6 @@ input {
 
 .password {
     padding-left: 35px;
-}
-
-p {
-    float:right;
-    color: rgb(101, 171, 255);
-    font-size: 13px;
-    margin: 1px;
 }
 
 .continue {

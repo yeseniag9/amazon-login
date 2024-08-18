@@ -23,7 +23,7 @@
     width: 21%;
 }
 
-.border-box h1 {
+h1 {
     margin-top: 22px;
     margin-left: 27px;
     font-size: 27px;
@@ -31,8 +31,9 @@
 }
 
 .email {
-    font-size: 10px;
-    
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: -6px;
 }
 
 

@@ -31,29 +31,21 @@ h1 {
 }
 
 .email {
+    margin-top: -6px;
     font-size: 12px;
     font-weight: 600;
-    margin-top: -6px;
 }
 
 input {
-    width: 285px; 
-    padding-bottom: 8px; 
     margin-top: 5px; 
-    color: rgb(166, 166, 166);
+    border: 1px solid rgb(148, 148, 148);
+    border-radius: 3px;
+    width: 285px;
+    height: 25px;
 }
 
 
 
-/* input {
-    width: 457px;
-    height: 18px;
-    border: solid rgb(173, 177, 185);
-    border-width: 1px;
-    padding: 3px;
-    margin-top: 8px;
-    margin-bottom: 25px;
-} */
 
 ::placeholder {
     color: rgb(173, 177, 185);

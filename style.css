@@ -45,9 +45,12 @@ input {
 }
 
 .continue {
+    margin-top: 10px;
+    font-size: 13px;
+    border-radius: 6px;
+
     background-color: rgb(255, 218, 20);
     border: none;
-    border-radius: 10px;
     width: 295px;
 }
 

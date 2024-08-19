@@ -44,17 +44,24 @@ input {
     height: 25px;
 }
 
-
-
-
-
 .continue {
+    background-color: rgb(255, 218, 20);
+    border: none;
+    border-radius: 10px;
+    width: 295px;
+}
+
+
+
+
+
+/*.continue {
     background-color: rgb(246, 198, 70);
     width: 465px;
     border: 1px solid rgb(173, 177, 185);
     height: 25px;
     font-size: 13px;
-}
+}*/
 
 .need-help-play-icon {
     margin-top: -15px;

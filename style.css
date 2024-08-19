@@ -47,14 +47,6 @@ input {
 
 
 
-::placeholder {
-    color: rgb(173, 177, 185);
-    opacity: 10;
-}
-
-.password {
-    padding-left: 35px;
-}
 
 .continue {
     background-color: rgb(246, 198, 70);

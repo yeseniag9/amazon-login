@@ -46,14 +46,14 @@ input {
 
 .continue {
     margin-top: 14px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 13px;
-    border-radius: 6px;
+    border-radius: 8px;
     width: 297px;
-    height: 30px;
-
-
+    height: 32px;
     background-color: rgb(255, 218, 20);
     border: none;
+    letter-spacing: 0.1px;
 }
 
 

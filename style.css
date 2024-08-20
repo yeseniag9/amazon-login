@@ -88,6 +88,12 @@ i {
     font-size: 6px;
 }
 
+.help {
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(1, 102, 192);
+}
+
 
 
 .bottom-of-page {

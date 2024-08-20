@@ -71,8 +71,16 @@ input {
     color: rgb(1, 102, 192);
 }
 
+.conditions:hover {
+    color: rgb(204, 85, 0);
+}
+
 .privacy {
     color: rgb(1, 102, 192);
+}
+
+.privacy:hover {
+    color: rgb(204, 85, 0);
 }
 
 i {

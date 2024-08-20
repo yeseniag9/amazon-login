@@ -62,17 +62,17 @@ input {
 
 .terms {
     margin-top: 20px;
-    font-size: 11.7px;
+    font-size: 11.1px;
     width: 297px;
     line-height: 17px;
 }
 
 .conditions {
-    color: blue;
+    color: rgb(1, 102, 192);
 }
 
 .privacy {
-    color: blue;
+    color: rgb(1, 102, 192);
 }
 
 i {

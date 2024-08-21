@@ -83,9 +83,9 @@ input {
     color: rgb(204, 85, 0);
 }
 
-
 .play-help {
     margin-top: -5px;
+    display: inline;
 }
 
 
@@ -95,7 +95,6 @@ i {
 }
 
 .help {
-    margin-top: 120px;
     font-size: 13px;
     text-decoration: none;
     color: rgb(1, 102, 192);

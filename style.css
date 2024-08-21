@@ -83,6 +83,18 @@ input {
     color: rgb(204, 85, 0);
 }
 
+
+
+.help:hover {
+    color: rgb(204, 85, 0);
+    text-decoration: underline;
+}
+
+
+.play-help {
+    display: flex;
+align-items: center;}
+
 i {  
     color: rgb(101, 101, 101);
     font-size: 6px;
@@ -92,11 +104,12 @@ i a {
     color: rgb(1, 102, 192);
     text-decoration: none;
     font-size: 13px;
+    margin-left: 10px;
 }
 
 
 
-.bottom-of-page {
+/* .bottom-of-page {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -163,4 +176,4 @@ ul {
     color: black;
     font-size: 13px;
     margin-top: 2px;
- }
+ } */

@@ -83,12 +83,19 @@ input {
     color: rgb(204, 85, 0);
 }
 
+
+.play-help {
+    margin-top: -5px;
+}
+
+
 i {
     color: rgb(101, 101, 101);
     font-size: 6px;
 }
 
 .help {
+    margin-top: 120px;
     font-size: 13px;
     text-decoration: none;
     color: rgb(1, 102, 192);

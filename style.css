@@ -115,8 +115,12 @@ i {
     font-weight: bold;
 }
 
+.shop-margin {
+    margin-top: -17px;
+}
+
 .shop {
-    font-size: 12px;
+    font-size: 12.5px;
     text-decoration: none;
     color: rgb(1, 102, 192);
 }
@@ -125,6 +129,8 @@ i {
     text-decoration: underline;
     color: rgb(204, 85, 0);
 }
+
+
 
 
 

@@ -166,34 +166,6 @@ i {
     letter-spacing: 0.1px;
 }
 
-
-
-/*
-
-.final {
+.conditions-privacy-help {
     border-top: 2px solid rgb(223, 223, 223);
-    border-top-width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-family: Arial, Helvetica, sans-serif;
 }
-
-ul {
-    list-style-type: none;
-    margin-top: 40px;
-    display: flex;
-}
-
-.footer-link {
-    text-decoration: none;
-    color: rgb(101, 171, 255);
-    display: inline-block;
-    padding: 17px;
-}
-
-.copy {
-    color: black;
-    font-size: 13px;
-    margin-top: 2px;
-} 

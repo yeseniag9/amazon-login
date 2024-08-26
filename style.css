@@ -115,6 +115,17 @@ i {
     font-weight: bold;
 }
 
+.shop {
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(1, 102, 192);
+}
+
+.shop:hover {
+    text-decoration: underline;
+    color: rgb(204, 85, 0);
+}
+
 
 
 /* .bottom-of-page {

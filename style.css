@@ -131,15 +131,11 @@ i {
     color: rgb(204, 85, 0);
 }
 
-
-
-
-
-.bottom-of-page {
+.below-box {
     display: flex;
     justify-content: center;
-    align-items: center;
-    position: relative;
+    margin-top: -70px;
+
     bottom: 60px;
     padding: 83px;
 }

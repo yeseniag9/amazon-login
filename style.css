@@ -153,15 +153,16 @@ i {
 }
 
 .create-your-amazon-account {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: white;
     border: 1px solid rgb(221, 221, 221);
     border-radius: 8px;
-    width: 300px;
-    margin-top: 15px;
-    height: 27px;
+    margin-top: -1px;
+    margin-left: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 13px;
-    font-weight: 400;
+    width: 351px;
+    height: 32px;
+    letter-spacing: 0.1px;
 }
 
 .final {

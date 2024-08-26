@@ -141,17 +141,15 @@ i {
     color: rgb(118, 118, 118);
 }
 
-.new::before, .new:after {
-    background-color: rgb(221, 221, 221);
-    content: "";
+.new::before, .new::after {
     display: inline-block;
-    height: 1px;
-    position: relative;
-    vertical-align: middle;
-    width: 122px;
-    margin-right: 7px;
+    margin-bottom: 5px;
     margin-left: 7px;
-    margin-bottom: 4px;
+    margin-right: 7px;
+    width: 122px;
+    height: 1px;
+    content: "";
+    background-color: rgb(221, 221, 221);
 }
 
 .create-your-amazon-account {
@@ -192,4 +190,4 @@ ul {
     color: black;
     font-size: 13px;
     margin-top: 2px;
- } 
+} 

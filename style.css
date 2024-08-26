@@ -14,8 +14,6 @@
 }
 
 .border-box {
-    display: block;
-    justify-content: start;
     margin: auto;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 1px solid rgb(221, 221, 221);
@@ -132,21 +130,20 @@ i {
 }
 
 .below-box {
-    display: flex;
-    justify-content: center;
-    margin-top: -70px;
-
-    bottom: 60px;
-    padding: 83px;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 8%;
 }
 
+/*
+
 .new-to-amazon {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     float: none;
     color: rgb(118, 118, 118);
     font-size: 11.5px;
 }
-  
+
+ 
 .new-to-amazon:before, .new-to-amazon:after {
     background-color: rgb(221, 221, 221);
     content: "";

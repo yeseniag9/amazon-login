@@ -135,7 +135,7 @@ i {
 
 
 
-/* .bottom-of-page {
+.bottom-of-page {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -202,4 +202,4 @@ ul {
     color: black;
     font-size: 13px;
     margin-top: 2px;
- } */
+ } 

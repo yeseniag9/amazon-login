@@ -1,7 +1,11 @@
+html, body {
+    width: 100%;
+    margin: 0;
+}
+
 .amazon-top {
     display: flex;
     justify-content: center;
-    margin-top: -7px;
     margin-bottom: 23px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 33.7px;
@@ -175,7 +179,7 @@ input {
     padding-top: 43px;
     font-size: 10.6px;
     border-image: radial-gradient(rgb(228, 228, 228),rgba(1, 0, 0, 0)) 1;
-    background-color: rgb(251, 251, 251);
+    background-color: green; /* background-color: rgb(251, 251, 251); */
     padding-bottom: 297px;
 }
 

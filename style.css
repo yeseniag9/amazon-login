@@ -189,9 +189,9 @@ input:focus {
     border-width: 100%;
     padding-top: 43px;
     font-size: 10.6px;
-    border-image: radial-gradient(rgb(228, 228, 228),rgba(1, 0, 0, 0)) 1;
-    background-color: rgb(251, 251, 251);
+    border-image: radial-gradient(rgb(228, 228, 228),rgba(0,0, 0, 0)) 1;
     padding-bottom: 306.5px;
+    background-image: radial-gradient(rgb(250, 250, 250),rgba(0,0, 0, 0));
 }
 
 .conditions2, .privacy2, .help2 {

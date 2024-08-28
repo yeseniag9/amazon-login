@@ -170,6 +170,10 @@ input {
     letter-spacing: 0.1px;
 }
 
+.create:hover {
+    background-color: rgb(251, 251, 251);
+}
+
 .below-line {
     display: flex;
     justify-content: center;

@@ -8,10 +8,6 @@ html, body {
     justify-content: center;
 }
 
-img {
-    font-size: 10px;
-}
-
 .border-box {
     margin: auto;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -43,9 +39,8 @@ input {
 }
 
 input:focus {
-    border: 1px solid grey;
-    box-shadow: 0 0 10px rgb(38, 158, 191);
-    background-color: rgb(238, 255, 255);
+    border: 1px solid rgb(1,114,133);
+    box-shadow: 0 0 0 3px rgb(201, 243, 250);
 }
 
 .continue {

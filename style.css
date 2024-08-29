@@ -1,6 +1,7 @@
 html, body {
     width: 100%;
     margin: 0;
+    font-family: "Amazon Ember";
 }
 
 .amazon-top {
@@ -11,7 +12,7 @@ html, body {
 
 .border-box {
     margin: auto;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
     border: 1px solid rgb(221, 221, 221);
     border-radius: 8px;
     width: 21%;
@@ -21,7 +22,7 @@ h1 {
     margin-top: 22px;
     margin-left: 27px;
     font-size: 27px;
-    font-weight: 100;
+    font-weight: 400;
 }
 
 .email {

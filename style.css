@@ -33,12 +33,13 @@ h1 {
 }
 
 input {
-    margin-top: 5px; 
+    margin-top: 4px; 
     border: 1px solid rgb(148, 148, 148);
     border-radius: 3px;
     width: 290px;
-    height: 26px;
+    height: 27px;
     outline: none;
+    margin-left: -2px;
 }
 
 input:focus {

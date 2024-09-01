@@ -7,7 +7,6 @@ html, body {
 .amazon-top {
     display: flex;
     justify-content: center;
-    margin-bottom: 4px;
     margin-top: 1px;
 }
 

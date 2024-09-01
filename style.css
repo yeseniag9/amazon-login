@@ -7,7 +7,7 @@ html, body {
 .amazon-top {
     display: flex;
     justify-content: center;
-    margin-top: 1px;
+    margin-bottom: 1px;
 }
 
 .border-box {
@@ -54,14 +54,17 @@ input:focus {
     font-size: 13px;
     border-radius: 8px;
     width: 296px;
-    height: 31px;
-    background-color: rgb(255, 218, 20);
+    height: 30.6px;
+    background-color: rgb(255, 217, 21);
     border: none;
     font-family: "Amazon Ember";
+    padding-right: 5px;
+    padding-bottom: 2px;
+    cursor: pointer;
 }
 
 .continue:hover {
-    background-color: rgb(246, 198, 70);
+    background-color: rgb(245, 200, 20);
 }
 
 .terms {

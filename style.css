@@ -69,10 +69,10 @@ input:focus {
 }
 
 .terms {
-    margin-top: 20px;
-    font-size: 11.1px;
+    margin-top: 18px;
+    font-size: 12px;
     width: 297px;
-    line-height: 17px;
+    line-height: 18px;
 }
 
 .conditions {
@@ -98,11 +98,6 @@ input:focus {
     width: 294px;
     align-items: center;
     padding-bottom: 25px;
-}
-
-.play {  
-    font-size: 6px;
-    color: rgb(101, 101, 101);
 }
 
 .help {

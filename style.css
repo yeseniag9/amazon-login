@@ -40,6 +40,7 @@ input {
     height: 27px;
     outline: none;
     margin-left: -2px;
+    text-indent: 5px;
 }
 
 input:focus {

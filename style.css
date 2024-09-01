@@ -51,14 +51,13 @@ input:focus {
 
 .continue {
     margin-top: 14px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 13px;
     border-radius: 8px;
-    width: 297px;
-    height: 32px;
+    width: 296px;
+    height: 31px;
     background-color: rgb(255, 218, 20);
     border: none;
-    letter-spacing: 0.1px;
+    font-family: "Amazon Ember";
 }
 
 .continue:hover {
@@ -137,7 +136,6 @@ input:focus {
 }
 
 .below-box {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
 
@@ -164,11 +162,11 @@ input:focus {
     border-radius: 8px;
     margin-top: -1px;
     margin-bottom: 25px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 13px;
     width: 351px;
     height: 32px;
     letter-spacing: 0.1px;
+    font-family: "Amazon Ember";
 }
 
 .create:hover {
@@ -178,7 +176,6 @@ input:focus {
 .below-line {
     display: flex;
     justify-content: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-top: 2px solid rgb(116, 115, 115);
     border-width: 100%;
     padding-top: 43px;

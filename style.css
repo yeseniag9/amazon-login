@@ -135,9 +135,8 @@ input:focus {
 }
 
 .below-box {
-    margin: auto;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    width: 22%;
+    text-align: center;
 }
 
 .new {
@@ -163,7 +162,6 @@ input:focus {
     border-radius: 8px;
     margin-top: -1px;
     margin-bottom: 25px;
-    margin-left: 8px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 13px;
     width: 351px;

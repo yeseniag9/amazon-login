@@ -2,12 +2,19 @@ html, body {
     width: 100%;
     margin: 0;
     font-family: "Amazon Ember";
+    height: 100vh;
+    background-image: radial-gradient(rgb(246, 246, 246),rgba(0,0, 0, 0));
 }
 
 .amazon-top {
     display: flex;
     justify-content: center;
     margin-bottom: 1px;
+    background-color: white;
+}
+
+.middle {
+    background-color: white;
 }
 
 .border-box {
@@ -138,6 +145,10 @@ input:focus {
     color: rgb(204, 85, 0);
 }
 
+.below-middle {
+    background-color: white;
+}
+
 .below-box {
     text-align: center;
 }
@@ -184,8 +195,6 @@ input:focus {
     padding-top: 43px;
     font-size: 10.6px;
     border-image: radial-gradient(rgb(186, 185, 185),rgba(0,0, 0, 0)) 1;
-    padding-bottom: 306.5px;
-    background-image: radial-gradient(rgb(246, 246, 246),rgba(0,0, 0, 0));
 }
 
 .conditions2, .privacy2, .help2 {

@@ -92,12 +92,16 @@ input:focus {
     color: rgb(204, 85, 0);
 }
 
+.underline {
+    border-bottom: 1px solid rgb(231, 231, 231);
+    width: 296.3px;
+    margin-top: -0.5px;
+}
+
 .play-help {
     display: flex;
     align-items: center;
     margin-top: 16.5px;
-    border-bottom: 1px solid rgb(231, 231, 231);
-    width: 294px;
     padding-bottom: 18px;
     margin-left: -8.6px;
 }

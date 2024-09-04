@@ -95,16 +95,12 @@ input:focus {
 .play-help {
     display: flex;
     align-items: center;
-    margin-top: 16px;
-    margin-top: 17px;
+    margin-top: 16.5px;
     border-bottom: 1px solid rgb(231, 231, 231);
     width: 294px;
     padding-bottom: 25px;
     padding-bottom: 18px;
-}
-
-.play {
-    margin-left: -8.2px;
+    margin-left: -8.6px;
 }
 
 .help {

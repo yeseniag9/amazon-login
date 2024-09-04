@@ -171,8 +171,9 @@ input:focus {
     margin-bottom: 25px;
     font-size: 13px;
     width: 351px;
-    height: 32px;
+    height: 30.5px;
     font-family: "Amazon Ember";
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
 }
 
 .create:hover {

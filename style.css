@@ -168,12 +168,17 @@ input:focus {
     border: 1px solid rgb(221, 221, 221);
     border-radius: 8px;
     margin-top: -1px;
-    margin-bottom: 25px;
+    margin-left: 1px;
     font-size: 13px;
-    width: 351px;
-    height: 30.5px;
+    width: 350px;
+    height: 31px;
     font-family: "Amazon Ember";
+    padding-bottom: 2px;
+    padding-left: 7px;
+
     box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
+    margin-bottom: 25px;
+
 }
 
 .create:hover {

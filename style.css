@@ -1,8 +1,8 @@
-body {
+html, body {
     font-family: "Amazon Ember";
     width: 100%;
     margin: 0;
-    height: 100vh;
+    height: 100%;
 }
 
 .amazon-top {
@@ -193,7 +193,6 @@ input:focus {
     border-image: radial-gradient(rgb(186, 185, 185),rgba(0,0, 0, 0)) 1;
     background-image: radial-gradient(rgb(79, 12, 12),rgba(0,0, 0, 0));
     box-shadow: inset 0 3px 3px -3px rgb(222, 222, 222);
-    min-height: 100px;
 }
 
 .conditions2, .privacy2, .help2 {

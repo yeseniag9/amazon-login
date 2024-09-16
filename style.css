@@ -1,11 +1,17 @@
 html, body {
-    font-family: "Amazon Ember";
     height: 100%;
+    font-family: "Amazon Ember";
 }
 
 body {
     display: flex;
     flex-direction: column;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
 }
 
 .amazon-top {
@@ -187,6 +193,9 @@ input:focus {
 }
 
 .line {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
     align-items: center;
     padding-top: 41.5px;
     font-size: 11px;

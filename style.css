@@ -9,13 +9,13 @@ html, body {
 .page {
     display: flex;
     flex-direction: column;
-    margin-bottom: 1px;
-
+    
     flex-grow: 1;
 }
 
 .amazon-top {
     display: flex;
+    margin-bottom: 1px;
 
     justify-content: center;
 }

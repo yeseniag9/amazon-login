@@ -59,6 +59,7 @@ input:focus {
 }
 
 .continue {
+    font-family: "Amazon Ember";
     margin-top: 14px;
     font-size: 13px;
     border-radius: 8px;
@@ -66,7 +67,6 @@ input:focus {
     height: 31px;
     background-color: rgb(255, 217, 21);
     border: none;
-    font-family: "Amazon Ember";
     cursor: pointer;
     box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
     padding-bottom: 2px;

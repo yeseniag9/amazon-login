@@ -9,50 +9,57 @@ html, body {
 .page {
     display: flex;
     flex-direction: column;
+    margin-bottom: 1px;
+
     flex-grow: 1;
 }
 
 .amazon-top {
     display: flex;
+
     justify-content: center;
-    margin-bottom: 1px;
 }
 
 .border-box {
+    height: 358.5px;
     margin: auto;
+
     font-weight: 700;
     border: 1px solid rgb(221, 221, 221);
     border-radius: 8px;
     max-width: 348px;
-    height: 358.5px;
 }
 
 h1 {
-    margin-top: 20px;
     margin-left: 26px;
+    margin-top: 20px;
+    
     font-size: 28px;
     font-weight: 400;
 }
 
 .email {
-    margin-top: -7.5px;
     margin-left: 2px;
+    margin-top: -7.5px;
+
     font-size: 13px;
     font-weight: bold;
 }
 
 input {
     height: 27px;
+    margin-left: -2px;
     margin-top: 4px; 
+
     border: 1px solid rgb(148, 148, 148);
     border-radius: 3px;
     width: 290px;
     outline: none;
-    margin-left: -2px;
     text-indent: 5px;
 }
 
 input:focus {
+
     border: 1px solid rgb(1,114,133);
     box-shadow: 0 0 0 3px rgb(201, 243, 250);
     background-color: rgb(247, 254, 255);
@@ -62,6 +69,7 @@ input:focus {
     font-family: "Amazon Ember";
     height: 31px;
     margin-top: 14px;
+
     font-size: 13px;
     border-radius: 8px;
     width: 296px;
@@ -74,11 +82,13 @@ input:focus {
 }
 
 .continue:hover {
+
     background-color: rgb(245, 200, 20);
 }
 
 .terms {
     margin-top: 18px;
+
     font-size: 12px;
     width: 297px;
     line-height: 18px;
@@ -102,69 +112,79 @@ input:focus {
 
 .play-help {
     display: flex;
-    align-items: center;
-    margin-top: 16.5px;
-    padding-bottom: 18px;
     margin-left: -8.6px;
+    margin-top: 16.5px;
+
+    align-items: center;
+    padding-bottom: 18px;
 }
 
 .help {
     margin-left: -1.5px;
+
     font-size: 13px;
     text-decoration: none;
     color: rgb(1, 102, 192);
 }
 
 .help:hover {
+
     text-decoration: underline;
     color: rgb(204, 85, 0);
 }
 
 .underline {
+    margin-top: -0.5px;
+
     border-bottom: 1px solid rgb(231, 231, 231);
     width: 296.3px;
-    margin-top: -0.5px;
 }
 
 .buy {
     margin-top: 15.5px;
+
     font-size: 13px;
     font-weight: bold;
 }
 
 .shop-margin {
-    margin-top: -20px;
     margin-bottom: -3px;
+    margin-top: -20px;
 }
 
 .shop {
+
     font-size: 13px;
     text-decoration: none;
     color: rgb(1, 102, 192);
 }
 
 .shop:hover {
+
     text-decoration: underline;
     color: rgb(204, 85, 0);
 }
 
 .below-box {
-    text-align: center;
     margin-left: -1px;
+
+    text-align: center;
 }
 
 .new {
     margin-top: 24px;
+
     font-size: 12px;
     color: rgb(118, 118, 118);
 }
 
 .new::before, .new::after {
-    height: 1px;
     display: inline-block;
+    height: 1px;
     margin-bottom: 5px;
     margin-left: 7px;
     margin-right: 7px;
+
     width: 122px;
     content: "";
     background-color: rgb(233, 233, 233);
@@ -173,26 +193,30 @@ input:focus {
 .create {
     font-family: "Amazon Ember";
     height: 31px;
+    margin-bottom: 26px;
+    margin-left: 1px;
+    margin-top: -1px;
+
+
     background-color: white;
     border: 1px solid rgb(221, 221, 221);
     border-radius: 8px;
-    margin-top: -1px;
-    margin-left: 1px;
     font-size: 13px;
     width: 350px;
     padding-bottom: 2px;
     padding-left: 7px;
     box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
-    margin-bottom: 26px;
 }
 
 .create:hover {
+
     background-color: rgb(251, 251, 251);
 }
 
 .line {
     display: flex;
     flex-direction: column;
+
     flex-grow: 1;
     align-items: center;
     padding-top: 41.5px;
@@ -204,22 +228,25 @@ input:focus {
 }
 
 .conditions2, .privacy2, .help2 {
+    margin-right: 4.7px;
+
     text-decoration: none;
     color: rgb(1, 102, 192);
     padding: 9.1px;
-    margin-right: 4.7px;
 }
 
 .conditions2:hover, .privacy2:hover, .help2:hover {
+
     text-decoration: underline;
     color: rgb(204, 85, 0);
 }
 
 .copyright {
     display: flex;
+    margin-left: 11.1px;
+    margin-top: 15.4px;
+
     align-items: center;
     font-size: 11.5;
     color: rgb(85, 85, 85);
-    margin-left: 11.1px;
-    margin-top: 15.4px;
 }

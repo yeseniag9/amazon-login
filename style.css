@@ -14,9 +14,8 @@ html, body {
 
 .logo {
     display: flex;
-    margin-bottom: 1px;
-
     justify-content: center;
+    margin-bottom: 1px;
 }
 
 .border-box {

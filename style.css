@@ -65,27 +65,24 @@ input:focus {
     border-radius: 8px;
     box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
     cursor: pointer;
-
     font-family: "Amazon Ember";
+    font-size: 13px;
     height: 31px;
     margin-top: 14px;
-    font-size: 13px;
-    width: 296px;
     padding-bottom: 2px;
     padding-right: 5px;
+    width: 296px;
 }
 
 .continue:hover {
-
     background-color: rgb(245, 200, 20);
 }
 
 .terms {
-    margin-top: 18px;
-
     font-size: 12px;
-    width: 297px;
     line-height: 18px;
+    margin-top: 18px;
+    width: 297px;
 }
 
 .conditions {
@@ -105,40 +102,35 @@ input:focus {
 }
 
 .play-help {
+    align-items: center;
     display: flex;
     margin-left: -8.6px;
     margin-top: 16.5px;
-
-    align-items: center;
     padding-bottom: 18px;
 }
 
 .help {
-    margin-left: -1.5px;
-
-    font-size: 13px;
-    text-decoration: none;
     color: rgb(1, 102, 192);
+    font-size: 13px;
+    margin-left: -1.5px;
+    text-decoration: none;
 }
 
 .help:hover {
-
-    text-decoration: underline;
     color: rgb(204, 85, 0);
+    text-decoration: underline;
 }
 
 .underline {
-    margin-top: -0.5px;
-
     border-bottom: 1px solid rgb(231, 231, 231);
+    margin-top: -0.5px;
     width: 296.3px;
 }
 
 .buy {
-    margin-top: 15.5px;
-
     font-size: 13px;
     font-weight: bold;
+    margin-top: 15.5px;
 }
 
 .shop-margin {
@@ -147,100 +139,88 @@ input:focus {
 }
 
 .shop {
-
+    color: rgb(1, 102, 192);
     font-size: 13px;
     text-decoration: none;
-    color: rgb(1, 102, 192);
 }
 
 .shop:hover {
-
-    text-decoration: underline;
     color: rgb(204, 85, 0);
+    text-decoration: underline;
 }
 
 .below-box {
     margin-left: -1px;
-
     text-align: center;
 }
 
 .new {
-    margin-top: 24px;
-
-    font-size: 12px;
     color: rgb(118, 118, 118);
+    font-size: 12px;
+    margin-top: 24px;
 }
 
 .new::before, .new::after {
+    background-color: rgb(233, 233, 233);
+    content: "";
     display: inline-block;
     height: 1px;
     margin-bottom: 5px;
     margin-left: 7px;
     margin-right: 7px;
-
     width: 122px;
-    content: "";
-    background-color: rgb(233, 233, 233);
 }
 
 .create {
+    background-color: white;
+    border: 1px solid rgb(221, 221, 221);
+    border-radius: 8px;
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
     font-family: "Amazon Ember";
+    font-size: 13px;
     height: 31px;
     margin-bottom: 26px;
     margin-left: 1px;
     margin-top: -1px;
-
-
-    background-color: white;
-    border: 1px solid rgb(221, 221, 221);
-    border-radius: 8px;
-    font-size: 13px;
-    width: 350px;
     padding-bottom: 2px;
     padding-left: 7px;
-    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
+    width: 350px;
 }
 
 .create:hover {
-
     background-color: rgb(251, 251, 251);
 }
 
 .line {
-    display: flex;
-    flex-direction: column;
-
-    flex-grow: 1;
     align-items: center;
-    padding-top: 41.5px;
-    font-size: 11px;
+    background-image: radial-gradient(rgb(243, 243, 243),rgba(0,0, 0, 0));
+    border-image: radial-gradient(rgb(186, 185, 185),rgba(0,0, 0, 0)) 1;
     border-top: 2px solid rgb(116, 115, 115);
     border-width: 100%;
-    border-image: radial-gradient(rgb(186, 185, 185),rgba(0,0, 0, 0)) 1;
-    background-image: radial-gradient(rgb(243, 243, 243),rgba(0,0, 0, 0));
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    font-size: 11px;
+    padding-top: 41.5px;
 }
 
 .conditions2, .privacy2, .help2 {
-    margin-right: 4.7px;
-
-    text-decoration: none;
     color: rgb(1, 102, 192);
+    margin-right: 4.7px;
     padding: 9.1px;
+    text-decoration: none;
 }
 
 .conditions2:hover, .privacy2:hover, .help2:hover {
-
-    text-decoration: underline;
     color: rgb(204, 85, 0);
+    text-decoration: underline;
 }
 
 .copyright {
+    align-items: center;
+    color: rgb(85, 85, 85);
     display: flex;
+    font-size: 11.5;
     margin-left: 11.1px;
     margin-top: 15.4px;
-
-    align-items: center;
-    font-size: 11.5;
-    color: rgb(85, 85, 85);
 }

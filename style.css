@@ -20,62 +20,57 @@ html, body {
 }
 
 .border-box {
-    height: 358.5px;
-    margin: auto;
-
-    font-weight: 700;
     border: 1px solid rgb(221, 221, 221);
     border-radius: 8px;
+    font-weight: 700;
+    height: 358.5px;
+    margin: auto;
     max-width: 348px;
 }
 
 h1 {
-    margin-left: 26px;
-    margin-top: 20px;
-    
     font-size: 28px;
     font-weight: 400;
+    margin-left: 26px;
+    margin-top: 20px;
 }
 
 .email {
-    margin-left: 2px;
-    margin-top: -7.5px;
-
     font-size: 13px;
     font-weight: bold;
+    margin-left: 2px;
+    margin-top: -7.5px;
 }
 
 input {
+    border: 1px solid rgb(148, 148, 148);
+    border-radius: 3px;
     height: 27px;
     margin-left: -2px;
     margin-top: 4px; 
-
-    border: 1px solid rgb(148, 148, 148);
-    border-radius: 3px;
-    width: 290px;
     outline: none;
     text-indent: 5px;
+    width: 290px;
 }
 
 input:focus {
-
+    background-color: rgb(247, 254, 255);
     border: 1px solid rgb(1,114,133);
     box-shadow: 0 0 0 3px rgb(201, 243, 250);
-    background-color: rgb(247, 254, 255);
 }
 
 .continue {
+    background-color: rgb(255, 217, 21);
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
+    cursor: pointer;
+
     font-family: "Amazon Ember";
     height: 31px;
     margin-top: 14px;
-
     font-size: 13px;
-    border-radius: 8px;
     width: 296px;
-    background-color: rgb(255, 217, 21);
-    border: none;
-    cursor: pointer;
-    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.1);
     padding-bottom: 2px;
     padding-right: 5px;
 }

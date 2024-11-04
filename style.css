@@ -22,7 +22,6 @@ html, body {
 .border-box {
     border: 1px solid rgb(221, 221, 221);
     border-radius: 8px;
-    font-weight: 700;
     height: 358.5px;
     margin: auto;
     max-width: 348px;
@@ -35,7 +34,7 @@ h1 {
     margin-top: 20px;
 }
 
-.email {
+.email-number {
     font-size: 13px;
     font-weight: bold;
     margin-left: 2px;
@@ -55,7 +54,7 @@ input {
 
 input:focus {
     background-color: rgb(247, 254, 255);
-    border: 1px solid rgb(1,114,133);
+    border: 1px solid rgb(1, 114, 133);
     box-shadow: 0 0 0 3px rgb(201, 243, 250);
 }
 

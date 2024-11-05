@@ -192,7 +192,7 @@ input:focus {
 
 .footer {
     align-items: center;
-    background-image: radial-gradient(rgb(243, 243, 243), rgba(0, 0, 0, 0));
+    background-image: radial-gradient(rgb(251, 251, 251), rgba(0, 0, 0, 0));
     border-image: radial-gradient(rgb(186, 185, 185),rgba(0,0, 0, 0)) 1;
     border-top: 2px solid rgb(116, 115, 115);
     border-width: 100%;

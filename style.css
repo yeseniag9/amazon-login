@@ -193,13 +193,13 @@ input:focus {
 .footer {
     align-items: center;
     background-image: radial-gradient(rgb(251, 251, 251), rgba(0, 0, 0, 0));
-    border-image: radial-gradient(rgb(186, 185, 185), rgba(0, 0, 0, 0)) 1;
-    border-top: 2px solid rgb(116, 115, 115);
+    border-image: radial-gradient(rgb(177, 177, 177), rgba(0, 0, 0, 0)) 1;
+    border-top: 2px solid;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
     font-size: 11px;
-    padding-top: 41.5px;
+    padding-top: 42px;
 }
 
 .conditions2, .privacy2, .help2 {

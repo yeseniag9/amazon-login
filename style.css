@@ -108,14 +108,14 @@ input:focus {
     padding-bottom: 18px;
 }
 
-.help {
+.need-help {
     color: rgb(1, 102, 192);
     font-size: 13px;
     margin-left: -1.5px;
     text-decoration: none;
 }
 
-.help:hover {
+.need-help:hover {
     color: rgb(204, 85, 0);
     text-decoration: underline;
 }
